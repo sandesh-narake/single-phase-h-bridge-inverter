@@ -33,7 +33,7 @@ The overlap between these two waves controls the width of the pulses delivered v
 ![LTspice Circuit Schematic](schematic.png)
 
 ### 2. SPWM Generation Logic
-![SPWM Carrier vs Reference Wave](waveforms.png)
+![SPWM Carrier vs Reference Wave](waveforms_SPWM.png)
 *Showing the intersection of the reference sine wave and triangular carrier wave alongside the gate control pulses.*
 
 ### 3. Load Output Voltage and Current
