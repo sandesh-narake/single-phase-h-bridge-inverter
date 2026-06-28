@@ -37,7 +37,7 @@ The overlap between these two waves controls the width of the pulses delivered v
 *Showing the intersection of the reference sine wave and triangular carrier wave alongside the gate control pulses.*
 
 ### 3. Load Output Voltage and Current
-![Inverter Output Waveforms](waveforms.png)
+![Inverter Output Waveforms](Voltage_Current_Wave.png)
 *Showing the chopped output voltage and the filtered, sinusoidal load current waveform.*
 
 ## How to Run the Simulation
