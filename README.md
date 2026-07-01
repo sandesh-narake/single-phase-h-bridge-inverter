@@ -45,6 +45,7 @@ The overlap between these two waves controls the width of the pulses delivered v
 2. Open the `.asc` file directly in **LTspice**.
 3. Click the **Run** (Running Man) icon to execute the 600ms transient analysis.
 4. Click on the load to observe the current or measure differentially across the load terminals to view the voltage.
+
 ## MATLAB / Simulink Implementation
 
 This section contains a parallel implementation of the same single-phase H-bridge inverter, built and simulated in **MATLAB Simulink**, to cross-verify the SPWM control logic and output waveform behavior obtained in LTspice.
