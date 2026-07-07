@@ -83,11 +83,11 @@ This section contains a parallel implementation of the same single-phase H-bridg
 *Output voltage (≈250 V peak) and load current (≈5 A peak) after the LCLC filter, showing a clean sinusoidal shape at 50 Hz with visible residual switching ripple on the current.*
 
 ### MOSFET 1 & 2 Gate Voltage and Device Current
-![MOSFET 1 and 2 Gate Voltage and Current](mosfet_1_2_waveforms.jpg)
+![MOSFET 1 and 2 Gate Voltage and Current](mosfet_1_2_voltage_current.jpg)
 *Gate pulse train (Vtg) and corresponding conduction current for M1 and M2 — the diagonal switch pair conducting during the positive half-cycle group.*
 
 ### MOSFET 3 & 4 Gate Voltage and Device Current
-![MOSFET 3 and 4 Gate Voltage and Current](mosfet_3_4_waveforms.jpg)
+![MOSFET 3 and 4 Gate Voltage and Current](mosfet_3_4_voltage_current.jpg)
 *Gate pulse train (Vtg) and corresponding conduction current for M3 and M4 — the complementary diagonal switch pair, conducting 180° out of phase with M1/M2.*
 
 ### How to Run
